@@ -1,2 +1,1 @@
-# MapReduce
-MapReduce - Hadoop
+# cs6240_project_RK

@@ -1,0 +1,1 @@
+No. of cycles of length 7 = 992
